@@ -38,9 +38,9 @@ const data = [
         mewing kittens Remus Lupin. Palominos scarlet train black robes, Metamorphimagus Niffler dead easy second bedroom. Padma
         and Parvati Sorting Hat Minister of Magic blue turban remember my last.`,
 
-    thirdParagraph: `Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights 
-        Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven 
-        roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot 
+    thirdParagraph: `Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup. Fat Lady baubles banana fritters fairy lights
+        Petrificus Totalus. So thirsty, deluminator firs’ years follow me 12 inches of parchment. Head Boy start-of-term banquet Cleansweep Seven
+        roaring lion hat. Unicorn blood crossbow mars is bright tonight, feast Norwegian Ridgeback. Come seek us where our voices sound, we cannot
         sing above the ground, Ginny Weasley bright red. Fanged frisbees, phoenix tears good clean match.`
   },
   {
@@ -67,8 +67,8 @@ const data = [
         consectetur adipiscing elit. Nidoran Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nidorino Lorem ipsum dolor
         sit amet, consectetur adipiscing elit. Nidoking Lorem ipsum`,
 
-    thirdParagraph: `Gotta catch 'em all Horsea gym Ninjask Absol Sinnoh Poliwag. Gotta catch 'em all Youngster wants to fight Soda Pop Floatzel 
-        Leech Life Seismitoad Ariados. Earthquake Pokemon Glitch City Tail Whip Skitty Ekans Dialga. Ut aliquip ex ea commodo consequat James 
+    thirdParagraph: `Gotta catch 'em all Horsea gym Ninjask Absol Sinnoh Poliwag. Gotta catch 'em all Youngster wants to fight Soda Pop Floatzel
+        Leech Life Seismitoad Ariados. Earthquake Pokemon Glitch City Tail Whip Skitty Ekans Dialga. Ut aliquip ex ea commodo consequat James
         Castform Lotad the power that's inside Burnt Berry Makuhita. Ghost Ariados Corphish Dusclops Golbat Gligar Zweilous.`
   },
   {
@@ -86,6 +86,27 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Why Aragorn is the coolest character in any movie part 1',
+    date: '1/1/2001',
+    firstParagraph: `If by my life or death I can protect you, I will.`,
+    secondParagraph: `My Friends… You Bow To No One.`,
+    thirdParagraph: `A Day May Come When The Courage Of Men Fails, When We Forsake Our Friends And Break All Bonds Of Fellowship, But It Is Not This Day.`
+  },
+  {
+    title: 'Why Aragorn is the coolest character in any movie part 2',
+    date: '1/1/2001',
+    firstParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id tristique enim. Mauris mollis viverra mi. Praesent luctus quam sit amet placerat mollis. Nullam vitae auctor nunc. Phasellus convallis non dui in tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id eleifend lacus, non placerat felis. Morbi id turpis ultricies, efficitur sapien a, tempus mi.`,
+    secondParagraph: `Vestibulum porttitor lacus luctus luctus porta. Pellentesque magna lorem, pulvinar sit amet commodo a, efficitur vehicula odio. In elit neque, luctus et mattis et, ullamcorper ut augue. Aliquam id cursus tortor. Ut cursus mauris urna, ac varius justo efficitur id. Praesent semper lorem quis rutrum aliquam. Pellentesque quam nisl, posuere sed ipsum vulputate, finibus ornare nunc. Sed feugiat nulla diam, non molestie mauris sollicitudin a. Nulla massa dolor, vestibulum ut nisi vitae, scelerisque blandit risus. Nulla mi lectus, vehicula lobortis dictum quis, commodo vitae neque. Nulla vel est enim. Suspendisse ipsum felis, molestie at dolor a, posuere malesuada magna. Proin vulputate sapien in felis tincidunt, vel laoreet massa molestie. Proin commodo ornare nunc. Phasellus varius risus eget risus tincidunt, ut porttitor enim ornare.`,
+    thirdParagraph: `Quisque aliquet felis sit amet magna aliquam commodo. Phasellus vitae augue ut ipsum consequat finibus. Curabitur vitae ornare lacus, eu tristique libero. Nam sapien elit, posuere eget porttitor at, luctus ac erat. Ut id odio est. Proin venenatis justo ac cursus consequat. Fusce at lobortis odio, id sagittis ex.`
+  },
+  {
+    title: 'Why Aragorn is the coolest character in any movie part 3',
+    date: '1/1/2001',
+    firstParagraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at accumsan orci. Morbi sollicitudin felis a arcu dignissim iaculis. Donec lacus urna, semper ac convallis et, dignissim eget tellus. Quisque rutrum fermentum pellentesque. Donec sem nibh, elementum sed molestie sed, sollicitudin pulvinar velit. Suspendisse quis ipsum in erat pulvinar rhoncus aliquet cursus libero. Vivamus diam diam, lacinia ut luctus id, auctor in metus. Praesent nec erat quis purus sodales rutrum. Vestibulum tincidunt pulvinar pulvinar. Nunc lectus orci, gravida ac tincidunt eget, viverra sed enim. In leo ante, varius vel aliquet ut, bibendum et lacus. Etiam sed cursus ligula. Maecenas dapibus sapien ac risus laoreet interdum. Aenean sapien est, viverra vitae tellus ac, ornare bibendum nibh. Vivamus vel efficitur ligula. Praesent in libero cursus nulla finibus aliquet.`,
+    secondParagraph: `Praesent viverra, leo ultrices facilisis dapibus, orci justo vehicula tortor, venenatis vulputate nisi dui suscipit orci. Sed ut mi tincidunt, tempus metus vel, tempus diam. Curabitur commodo, mi eget faucibus lobortis, tortor metus auctor augue, et posuere tortor nulla eu tortor. Aenean efficitur odio ut dignissim posuere. Phasellus eget justo at ex cursus pharetra. Vestibulum rhoncus nisl sit amet viverra feugiat. Pellentesque facilisis ex nec ultricies congue. Etiam tincidunt sed dolor sed auctor. Sed a dolor maximus, sollicitudin risus in, ullamcorper neque. Donec finibus urna urna. In quis mauris sed dolor pulvinar tempor. Phasellus dictum, urna ut scelerisque cursus, velit est fringilla justo, quis tincidunt est massa id lectus. Donec ac odio ac sem pretium gravida sed ut urna.`,
+    thirdParagraph: `In ac nisl hendrerit, tempor magna non, convallis justo. Vivamus augue tellus, aliquet in condimentum congue, vehicula at dolor. Quisque maximus sit amet lorem nec tempor. Aliquam malesuada consequat lacus a blandit. Ut ullamcorper, est vel lobortis elementum, neque ante accumsan magna, ultricies commodo erat nulla non odio. Curabitur vulputate, nulla in condimentum euismod, felis mi rutrum magna, vitae accumsan nibh metus ut lorem. Cras arcu eros, placerat eget vulputate vel, fermentum sed mi. Nam ex risus, tincidunt vitae nibh ut, pulvinar bibendum tellus. In in sem at massa euismod varius eget vel neque. Ut ornare, nunc id dictum vulputate, nibh mi blandit lacus, id consequat mi justo non ligula. Phasellus ornare pretium felis.`
   }
 ];
 
@@ -114,3 +135,64 @@ const data = [
   Step 5: Try adding new article object to the data array. Make sure it is in the same format as the others.
   Refresh the page to see the new article.
 */
+
+function titleMaker(data) {
+  let title = document.createElement('h2')
+  title.textContent = data["title"]
+  return title
+}
+
+function dateMaker(data) {
+  let date = document.createElement('p')
+  date.className = 'date'
+  date.textContent = data["date"]
+  return date
+}
+
+function paragraphMaker(data, paragraphIndex) {
+  let paragraph = document.createElement('p')
+  paragraph.textContent = data[paragraphIndex]
+  return paragraph
+}
+
+function buttonMaker() {
+  let button = document.createElement('span')
+  button.className = 'expandButton'
+  button.textContent = '+'
+  return button
+}
+
+function articleMaker(article) {
+  let articleDiv = document.createElement('div')
+  articleDiv.classList.add('article')
+
+  let titleHeader = titleMaker(article)
+  articleDiv.appendChild(titleHeader)
+
+  let date = dateMaker(article)
+  articleDiv.appendChild(date)
+
+  let firstParagraph = paragraphMaker(article, "firstParagraph")
+  articleDiv.appendChild(firstParagraph)
+
+  let secondParagraph = paragraphMaker(article, "secondParagraph")
+  articleDiv.appendChild(secondParagraph)
+
+  let thirdParagraph = paragraphMaker(article, "thirdParagraph")
+  articleDiv.appendChild(thirdParagraph)
+
+  let button = buttonMaker()
+  articleDiv.appendChild(button)
+
+  button.addEventListener('click', () => {
+    button.parentElement.classList.toggle('article-open')
+    console.log(button.parentElement)
+  })
+
+  return articleDiv
+}
+
+// Populates the article list with articles thanks to articleMaker
+data.forEach(e => {
+  document.querySelector('.articles').append(articleMaker(e))
+})
